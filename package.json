@@ -25,6 +25,6 @@
   },
   "scripts": {
     "dev-server": "webpack-dev-server",
-    "build": "webpack --watch"
+    "build": "webpack"
   }
 }
