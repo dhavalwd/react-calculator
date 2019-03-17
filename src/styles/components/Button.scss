@@ -1,0 +1,12 @@
+.Button {
+  width: 100%;
+  margin: 0 0 16px 0;
+  background-color: #ccc;
+  color: #000;
+  border-color: #ccc;
+
+  &:hover {
+    background-color: rgba(#000, 0.2);
+    border-color: rgba(#ccc, 0.2);
+  }
+}
