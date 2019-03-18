@@ -8,7 +8,7 @@ class Header extends React.Component {
         <div id="navbarNav">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link" href="#">Github</a>
+              <a className="nav-link" href="https://github.com/dhavalwd/react-calculator">Github</a>
             </li>
           </ul>
         </div>
